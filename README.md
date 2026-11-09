@@ -93,7 +93,7 @@ For a more interactive offline demo, the next step would be to add a separate `D
 
 ## Privacy and limitations
 
-Encircle is a prototype, not a medical device or substitute for clinical advice. Obtain all participants' consent before recording. AI-generated summaries may be incomplete or inaccurate; confirm medical instructions with a clinician. Use **fictional patient data** in demos and screenshots. Never commit API keys, tokens, recordings, or private patient information.
+Encircle is a prototype, not a medical device or substitute for clinical advice. Obtain all participants' consent before recording. AI-generated summaries may be incomplete or inaccurate; confirm medical instructions with a clinician.
 
 ---
 
